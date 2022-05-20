@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @POTA-11
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning the networking fundamentals
+- 💞️ I’m looking to collaborate on security incidents
